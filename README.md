@@ -24,10 +24,10 @@
 <p align="center">
 <a href="https://dev.to/florianwoelki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="florianwoelki" height="30" width="30" /></a>
 <a href="https://twitter.com/florianwoelki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="florianwoelki" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/florianwoelki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="florianwoelki" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/flowy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="flowy" height="30" width="30" /></a>
-<a href="https://kaggle.com/flowy98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="flowy98" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/florian-woelki/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="florianwoelki" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/8401261/flowy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="flowy" height="30" width="30" /></a>
+<a href="https://www.kaggle.com/flowy98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="flowy98" height="30" width="30" /></a>
 <a href="https://instagram.com/flowoelki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="flowoelki" height="30" width="30" /></a>
-<a href="https://medium.com/florianwoelki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="florianwoelki" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/code mit flow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="code mit flow" height="30" width="30" /></a>
+<a href="https://medium.com/@florianwoelki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="florianwoelki" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UC18qytfIhR9cNEjUcgGLl3A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="code mit flow" height="30" width="30" /></a>
 </p>
