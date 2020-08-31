@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=florianwoelki" alt="florianwoelki" /> </p>
 
-- 🔭 I’m currently working on **thesis**
+- 🔭 I’m currently working on **bachelor thesis**
 
 - 🌱 I’m currently learning **data science**
 
