@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm FloW</h1>
 <h3 align="center">A passionate fullstack developer and inspired data scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=florianwoelki" alt="florianwoelki" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=florianwoelki" alt="florianwoelki" /> </p>
 
 - 🔭 I’m currently working on **thesis**
 
