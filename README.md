@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FloW</h1>
-<h3 align="center">A passionate fullstack developer and inspired data scientist</h3>
+<h3 align="center">A passionate fullstack developer and in love with building products</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=florianwoelki" alt="florianwoelki" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://florianwoelki.com/#/](https://florianwoelki.com/#/)
 
-- 💬 Ask me about **vue, startups, data science, education, golang, typescript, graphql, grpc**
+- 💬 Ask me about **vue, startups, data science, ai, education, golang, typescript, graphql, grpc**
 
 - 📫 How to reach me **florianwoelki@gmx.de**
 
