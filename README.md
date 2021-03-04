@@ -40,13 +40,13 @@ Things I code with:
   <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/redis-000000?style=for-the-badge&logo=redis&logoColor=red" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-ffffff?style=for-the-badge&logo=graphql&logoColor=purple" />
-  <img src="https://img.shields.io/badge/redis-000000?style=for-the-badge&logo=redis&logoColor=red" />
-  <img src="https://img.shields.io/badge/tensorflow-ffffff?style=for-the-badge&logo=tensorflow&logoColor=orange" />
+  <img src="https://img.shields.io/badge/GraphQL-purple?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=florianwoelki&show_icons=true" alt="florianwoelki" /></p>
