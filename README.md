@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm FloW</h1>
 <h3 align="center">A passionate fullstack developer and in love with building products</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=florianwoelki" alt="florianwoelki" /> </p>
-
 - 🔭 I’m currently working on **a software clone**
 
 - 🌱 I’m currently learning **Golang**
@@ -49,9 +47,9 @@ Things I code with:
   <img src="https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=florianwoelki&show_icons=true" alt="florianwoelki" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=florianwoelki&show_icons=true" alt="florianwoelki" /></p>
 
-<p align="center">
+<p>
 <a href="https://dev.to/florianwoelki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="florianwoelki" height="30" width="30" /></a>
 <a href="https://twitter.com/florianwoelki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="florianwoelki" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/florian-woelki/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="florianwoelki" height="30" width="30" /></a>
@@ -61,3 +59,5 @@ Things I code with:
 <a href="https://medium.com/@florianwoelki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="florianwoelki" height="30" width="30" /></a>
 <a href="https://www.youtube.com/channel/UC18qytfIhR9cNEjUcgGLl3A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="code mit flow" height="30" width="30" /></a>
 </p>
+
+<p> <img src="https://komarev.com/ghpvc/?username=florianwoelki" alt="florianwoelki" /> </p>
