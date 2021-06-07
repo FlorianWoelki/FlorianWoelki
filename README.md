@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a software clone**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Elixir**
 
 - 👨‍💻 All of my projects are available at [https://florianwoelki.com/#/](https://florianwoelki.com/#/)
 
@@ -26,7 +26,7 @@ Things I code with:
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
