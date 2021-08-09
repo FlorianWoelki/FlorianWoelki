@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a software clone**
 
-- 🌱 I’m currently learning **Elixir**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [https://florianwoelki.com/#/](https://florianwoelki.com/#/)
 
